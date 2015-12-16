@@ -6,6 +6,5 @@ Name: jolla-ui-configuration-grouper
 Requires:
 - jolla-ambient-z@ICON_RES@
 - ambient-icons-closed-z@ICON_RES@
-- droid-hal-grouper-detritus
 Summary: Jolla UI Configuration grouper
 
